@@ -16,34 +16,30 @@ I'm **wingerboy**, an **AI Algorithm Engineer**, previously at **Tencent WXG (We
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/wingerboy/cursor-agent">cursor-agent ↗</a></h3>
-<strong>Inside a coding agent</strong>
-<p>Architecture notes and a minimal runnable demo exploring planning, execution, and verification.</p>
-<p>从任务规划到执行验证，拆解 Coding Agent 的工作方式。</p>
-<p><code>TypeScript</code> <code>Agent Architecture</code></p>
+<h3><a href="https://github.com/wingerboy/cursor-agent">Coding Agent ↗</a></h3>
+<p>A minimal demo of agent planning, execution, and verification.</p>
+<p>Agent 架构设计与可运行原型。</p>
+<p><code>TypeScript</code> <code>Agents</code></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/wingerboy/video_matting">video_matting ↗</a></h3>
-<strong>Computer vision, put to work</strong>
-<p>Video foreground extraction and background replacement using BEN2 and BiRefNet models, with a FastAPI service.</p>
-<p>把视频抠图模型接入处理流程与服务接口。</p>
-<p><code>Python</code> <code>PyTorch</code> <code>FastAPI</code></p>
+<h3><a href="https://github.com/wingerboy/video_matting">Video Matting ↗</a></h3>
+<p>Video foreground extraction with BEN2 / BiRefNet and FastAPI.</p>
+<p>视频抠图、背景替换与服务化。</p>
+<p><code>PyTorch</code> <code>FastAPI</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/wingerboy/MediaBot">MediaBot ↗</a></h3>
-<strong>Configurable browser workflows</strong>
-<p>A Python and Playwright project for configurable social media tasks, content filters, and session management.</p>
-<p>将浏览器操作组织成可配置、可追踪的自动化任务。</p>
-<p><code>Python</code> <code>Playwright</code> <code>Automation</code></p>
+<p>Configurable social media workflows with content filters and session tracking.</p>
+<p>可配置、可追踪的浏览器自动化。</p>
+<p><code>Python</code> <code>Playwright</code></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/wingerboy/faceRecognition">faceRecognition ↗</a></h3>
-<strong>Where my vision projects began</strong>
-<p>A desktop face recognition project with a PyQt interface and support for adding new faces.</p>
-<p>早期计算机视觉实践：从人脸识别到桌面交互。</p>
-<p><code>Python</code> <code>OpenCV</code> <code>dlib</code></p>
+<h3><a href="https://github.com/wingerboy/faceRecognition">Face Recognition ↗</a></h3>
+<p>Desktop face recognition with a PyQt interface and extensible face library.</p>
+<p>早期视觉实践：人脸识别与交互。</p>
+<p><code>OpenCV</code> <code>dlib</code></p>
 </td>
 </tr>
 </table>
