@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">wingerboy — Turning AI into useful things.</title>
+  <desc id="desc">AI Algorithm Engineer, previously at Tencent WXG.</desc>
+  <rect width="720" height="440" rx="16" fill="#101D24"/>
+  <rect x="1" y="1" width="718" height="438" rx="15" stroke="#2B3D46"/>
+  <path d="M44 42h19v19H44z" fill="#91F3C5"/>
+  <text x="78" y="60" fill="#D7E7E8" font-family="'Courier New',monospace" font-size="23" font-weight="700" letter-spacing="1">wingerboy<tspan fill="#91F3C5"> /</tspan></text>
+  <circle cx="626" cy="54" r="16" stroke="#91F3C5"/>
+  <path d="m618 56 5-9 5 15 6-11" stroke="#91F3C5" stroke-width="2" stroke-linecap="round"/>
+  <text x="42" y="155" fill="#F4F7F3" font-family="Georgia,'Times New Roman',serif" font-size="67" letter-spacing="-2">Turning AI into</text>
+  <text x="42" y="232" fill="#91F3C5" font-family="Georgia,'Times New Roman',serif" font-size="75" letter-spacing="-2">useful things.</text>
+  <text x="44" y="293" fill="#DBE5E6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="26">AI Algorithm Engineer</text>
+  <text x="44" y="334" fill="#9EB1B8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="24">Previously at Tencent WXG</text>
+  <path d="M44 372h632" stroke="#30424A"/>
+  <text x="44" y="409" fill="#9EB1B8" font-family="'Courier New',monospace" font-size="18" letter-spacing="1">AGENTS / COMPUTER VISION / APPLIED AI</text>
+</svg>

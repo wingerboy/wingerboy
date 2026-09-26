@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">wingerboy — Turning AI into useful things.</title>
+  <desc id="desc">AI Algorithm Engineer. Previously at Tencent WXG. A dark engineering canvas with a mint green diagram connecting models, tools, and products.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#DCECE7" stroke-opacity=".035"/></pattern>
+    <linearGradient id="line" x1="856" y1="140" x2="1158" y2="335" gradientUnits="userSpaceOnUse"><stop stop-color="#91F3C5"/><stop offset="1" stop-color="#5796C6"/></linearGradient>
+  </defs>
+  <rect width="1280" height="440" rx="16" fill="#101D24"/>
+  <rect x="1" y="1" width="1278" height="438" rx="15" stroke="#2B3D46"/>
+  <rect x="760" y="1" width="519" height="438" fill="url(#grid)"/>
+  <path d="M58 45h19v19H58z" fill="#91F3C5"/>
+  <path d="m63 54 4 4 8-10" stroke="#101D24" stroke-width="2"/>
+  <text x="91" y="62" fill="#D7E7E8" font-family="'Courier New',monospace" font-size="22" font-weight="700" letter-spacing="1">wingerboy<tspan fill="#91F3C5"> /</tspan></text>
+  <text x="58" y="151" fill="#F4F7F3" font-family="Georgia,'Times New Roman',serif" font-size="69" letter-spacing="-2">Turning AI into</text>
+  <text x="58" y="230" fill="#91F3C5" font-family="Georgia,'Times New Roman',serif" font-size="76" letter-spacing="-2">useful things.</text>
+  <text x="60" y="285" fill="#DBE5E6" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="24">AI Algorithm Engineer</text>
+  <text x="60" y="325" fill="#9EB1B8" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="22">Previously at Tencent WXG</text>
+  <path d="M58 366h654" stroke="#30424A"/>
+  <text x="60" y="402" fill="#9EB1B8" font-family="'Courier New',monospace" font-size="17" letter-spacing="2">AGENTS / COMPUTER VISION / APPLIED AI</text>
+  <g stroke="#344C56">
+    <circle cx="1018" cy="218" r="140"/>
+    <circle cx="1018" cy="218" r="99" stroke-dasharray="3 9"/>
+    <path d="M1018 48v22m0 296v22M846 218h22m296 0h22"/>
+  </g>
+  <path d="m953 126 174 118-165 96-9-214Z" stroke="url(#line)" stroke-width="2"/>
+  <path d="m953 126 65 92 109 26m-109-26-56 122" stroke="#52786D" stroke-width="1.5"/>
+  <circle cx="1018" cy="218" r="36" fill="#1E3937" stroke="#91F3C5"/>
+  <path d="m1001 222 10-20 10 31 12-22" stroke="#91F3C5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="'Courier New',monospace" font-size="17" letter-spacing="1">
+    <rect x="891" y="101" width="124" height="49" rx="6" fill="#182D31" stroke="#91F3C5"/>
+    <text x="918" y="131" fill="#B9F8DB">MODEL</text>
+    <rect x="1067" y="220" width="120" height="49" rx="6" fill="#172831" stroke="#6F9CAC"/>
+    <text x="1092" y="250" fill="#C5DDE9">TOOLS</text>
+    <rect x="892" y="315" width="140" height="49" rx="6" fill="#172831" stroke="#6F9CAC"/>
+    <text x="914" y="345" fill="#C5DDE9">PRODUCT</text>
+  </g>
+  <circle cx="874" cy="173" r="4" fill="#91F3C5"/>
+  <circle cx="1140" cy="118" r="3" fill="#59727D"/>
+  <circle cx="1097" cy="367" r="3" fill="#59727D"/>
+</svg>
